@@ -403,20 +403,6 @@ NO, I DON'T KNOW WHY EITHER.
 <center>
 
 <font face="Impact" size="7" color="#39FF14">
-GITHUB
-</font>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=damanchakraborty&show_icons=true&hide_border=true&bg_color=05000f&title_color=ff00ff&icon_color=00ffff&text_color=00ffff">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damanchakraborty&layout=compact&hide_border=true&bg_color=05000f&title_color=ff00ff&text_color=00ffff">
-
-</center>
-
-<br><br>
 
 <hr size="5" color="#FFFF00">
 
