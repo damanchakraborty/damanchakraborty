@@ -454,7 +454,7 @@ YOU ARE VISITOR #000042
 
 <font face="Courier New" size="2" color="#555555">
 
-© 1998–2026 DAMAN CHAKRABORTY
+© 2003–2026 DAMAN CHAKRABORTY
 
 <br>
 
